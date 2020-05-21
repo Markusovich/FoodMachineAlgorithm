@@ -39,7 +39,6 @@ public class Driver {
 		System.out.println("Welcome to Parkland Meal Selector");
 		System.out.println("---------------------------------");
 		System.out.println("Please select from the following");
-		System.out.println("(Press enter twice after each submission)");
 		System.out.println("1 - List food database");
 		System.out.println("2 - Create meal by manual selection");
 		System.out.println("3 - Create meal by random selection");
