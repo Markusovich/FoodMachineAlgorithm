@@ -1,4 +1,4 @@
-# FoodMachineAlgorithm
+# FoodMenu-LinkedList
 
 Meal planning system that allows a user to create meals based on a list of foods stored in a file.
 
